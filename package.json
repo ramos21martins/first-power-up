@@ -1,0 +1,24 @@
+{
+  "name": "first-power-up",
+  "version": "1.0.0",
+  "description": "Learning how to make power-ups",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build src/html/*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramos21martins/first-power-up.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramos21martins/first-power-up/issues"
+  },
+  "homepage": "https://github.com/ramos21martins/first-power-up#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
